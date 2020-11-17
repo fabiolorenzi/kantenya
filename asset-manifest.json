@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kantenya/static/css/main.c655ff22.chunk.css",
-    "main.js": "/kantenya/static/js/main.92faf192.chunk.js",
-    "main.js.map": "/kantenya/static/js/main.92faf192.chunk.js.map",
+    "main.js": "/kantenya/static/js/main.a1fe8b3d.chunk.js",
+    "main.js.map": "/kantenya/static/js/main.a1fe8b3d.chunk.js.map",
     "runtime-main.js": "/kantenya/static/js/runtime-main.5fd2abf6.js",
     "runtime-main.js.map": "/kantenya/static/js/runtime-main.5fd2abf6.js.map",
     "static/js/2.f21e96fe.chunk.js": "/kantenya/static/js/2.f21e96fe.chunk.js",
@@ -47,6 +47,6 @@
     "static/js/runtime-main.5fd2abf6.js",
     "static/js/2.f21e96fe.chunk.js",
     "static/css/main.c655ff22.chunk.css",
-    "static/js/main.92faf192.chunk.js"
+    "static/js/main.a1fe8b3d.chunk.js"
   ]
 }
